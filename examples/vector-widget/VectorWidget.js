@@ -129,4 +129,3 @@ var RING_TWO_ROTATE = new Transform().translate(84.000000, 89.000000).rotate(-24
 var RING_THREE_ROTATE = new Transform().translate(84.000000, 89.000000).rotate(-300.000000).translate(-84.000000, -89.000000);
 
 module.exports = VectorWidget;
-
